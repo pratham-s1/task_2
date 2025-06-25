@@ -1,1 +1,2 @@
-# task_2
+This is the second task of my internship, where I built a basic to-do list web app using HTML, CSS, and JavaScript. I created a simple interface with an input box to enter tasks, an add button to append them to a list, and individual remove buttons to delete tasks. Users can also mark tasks as completed by clicking on them. I used event listeners and DOM manipulation in JavaScript to handle dynamic updates without reloading the page. This task helped me get comfortable with writing interactive functionality and gave me a better understanding of how JavaScript can update the UI in real-time.
+<img width="1126" alt="Screenshot 2025-06-25 at 8 35 48 PM" src="https://github.com/user-attachments/assets/b8a0f3c9-5130-49c4-8b02-55a16f1fcd28" />
